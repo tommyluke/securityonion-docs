@@ -24,7 +24,7 @@ If you just want to import a pcap using :ref:`so-import-pcap`, then you can conf
 
 For all other configurations, the minimum specs for running Security Onion 2 are:
 
- - 12GB RAM
+ - 16GB RAM
  - 4 CPU cores
  - 200GB storage
 
